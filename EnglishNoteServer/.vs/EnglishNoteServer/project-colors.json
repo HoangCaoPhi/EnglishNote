@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "995d4b98-af6f-4757-ad8d-c1a333cc1019": {
+      "ProjectGuid": "995d4b98-af6f-4757-ad8d-c1a333cc1019",
+      "DisplayName": "EnglishNote.Domain",
+      "ColorIndex": 0
+    },
+    "ac3455f1-1137-4cb5-83e2-265b99c6e723": {
+      "ProjectGuid": "ac3455f1-1137-4cb5-83e2-265b99c6e723",
+      "DisplayName": "EnglishNote.Infrastructure",
+      "ColorIndex": 1
+    },
+    "8c315092-13b6-4a60-b89c-6deafe803180": {
+      "ProjectGuid": "8c315092-13b6-4a60-b89c-6deafe803180",
+      "DisplayName": "EnglishNote.Libary",
+      "ColorIndex": 2
+    },
+    "7e600251-94ad-49e0-8891-e5b4bcc7f24d": {
+      "ProjectGuid": "7e600251-94ad-49e0-8891-e5b4bcc7f24d",
+      "DisplayName": "EnglishNote.API",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
